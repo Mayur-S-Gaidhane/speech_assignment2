@@ -1,0 +1,14 @@
+# Virtual environment
+speech_pa2/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Full raw lecture - too large (591MB)
+lecture.mp4
+
+# Temp files
+temp_output.mp3

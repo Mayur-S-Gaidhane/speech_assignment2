@@ -1,0 +1,22 @@
+# Pipeline Execution Results
+# Author: Mayur Shriram Gaidhane | Roll No: M22AIE248
+
+WER: 0.0 %
+MCD: 0.19
+LID Switching Accuracy: 97.73 %
+EER: 8.0 %
+Adversarial epsilon (ε): 0.02
+Final SNR (dB): 39.84
+
+Language Switch Points:
+Switch at 52 sec  → English → Hindi
+Switch at 56 sec  → Hindi → English
+Switch at 158 sec → English → Hindi
+Switch at 164 sec → Hindi → English
+Switch at 276 sec → English → Hindi
+Switch at 282 sec → Hindi → English
+
+DTW Distance: 1715.69
+Alignment Path Length: 19177
+Speaker Embedding Shape: (13,)
+Spoof Score: 76.1465 → Bona fide speech
